@@ -1,6 +1,6 @@
 # jupyterlab_xkcd
 
-My first JupyterLab extension.
+My first JupyterLab extension! Testing with the xkcd tutorial on: [https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html](https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html)
 
 
 ## Prerequisites
