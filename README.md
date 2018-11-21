@@ -1,5 +1,6 @@
 # jupyterlab_xkcd
 
+<<<<<<< HEAD
 My first JupyterLab extension
 
 
@@ -30,3 +31,8 @@ npm run build
 jupyter lab build
 ```
 
+=======
+Creating my first JupyterLab extension.
+
+Full tutorial: [https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html](https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html)
+>>>>>>> 23da6fdd7329abe02c2f15b16a9f4f7480c07723
